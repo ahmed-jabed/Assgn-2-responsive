@@ -37,6 +37,8 @@
 .order-pic img{
     width: 30%; margin: 0 auto; border-radius: 500px 270px 530px 20px; cursor: progress;
 }
+
+/*  i couldn't make this site properly responsive ☹️ */
 @media and screen (min-width:576px){
     .shop-card-img{
         width:40%;
