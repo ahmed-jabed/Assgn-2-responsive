@@ -1,3 +1,4 @@
+/* this is modify css file where i changes few of tags */
 .site-logo{
     width: 270px;
 }
@@ -26,7 +27,7 @@
     width: 100%;
 }
 .shop-card-img{
-    width: 100%;
+    width: 70px;
 }
 .form-pics{
   
@@ -37,19 +38,6 @@
 .order-pic img{
     width: 30%; margin: 0 auto; border-radius: 500px 270px 530px 20px; cursor: progress;
 }
-
-/*  i couldn't make this site properly responsive ☹️ */
-@media and screen (min-width:576px){
-    .shop-card-img{
-        width:40%;
-    }
-}
 footer{
     text-align: center;  padding: 20px ; font-size: 12px;
-}
-/* for small devices */
-@media and screen (max-width: 576){
-    .welcome{
-        width:100%;
-    }
 }
